@@ -1,0 +1,10 @@
+.text{
+    text-align: center;
+    background-color: #eddd5e;
+    height: 260px;
+    padding-top: 40px;
+}
+.ltext{
+    margin: 40px;
+    margin-left: 100px;
+}
